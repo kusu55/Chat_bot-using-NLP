@@ -41,5 +41,5 @@ Here is a screenshot of outputs :
 
 ![Homepage](Homepage.png)
 ![Homepage 2](Homepage_2.png)
-![Homepage](Conversation_History.png)
+![Homepage](Conversation_History_page.png)
 ![Homepage](About_Page.png)

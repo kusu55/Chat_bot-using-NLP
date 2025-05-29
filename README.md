@@ -40,5 +40,6 @@ This project implements a **humanized chatbot** using **Python, NLP, and Machine
 Here is a screenshot of outputs :
 
 ![Homepage](Homepage.png)
-![Homepage](Conversation History.png)
-![Homepage](About Page.png)
+![Homepage 2](Homepage_2.png)
+![Homepage](Conversation_History.png)
+![Homepage](About_Page.png)

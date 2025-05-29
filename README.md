@@ -35,3 +35,10 @@ This project implements a **humanized chatbot** using **Python, NLP, and Machine
    ```bash
    streamlit run chatbot.py
    ```
+## 📊 Outputs
+
+Here is a screenshot of outputs :
+
+![Homepage](Homepage.png)
+![Homepage](Conversation History.png)
+![Homepage](About Page.png)
